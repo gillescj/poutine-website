@@ -1,4 +1,4 @@
-[Poutine Encyclopedia](https://4ww3.colingillespie.xyz/)
+# Poutine Encyclopedia
 
 Location search/upload website created for school project.
 
